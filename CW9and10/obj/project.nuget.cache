@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OrQrCnX53697gALqVdiSNcO70YTcFvTNgcMx0nh9hzjDKhX+UfY3Ghg08l3SDHXP0utUJz5Swua7KVzAsFC/ag==",
+  "success": true,
+  "projectFilePath": "E:\\CW9and10\\CW9and10\\CW9and10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
