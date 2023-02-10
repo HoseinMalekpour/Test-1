@@ -10,79 +10,78 @@ namespace DataAccessLayer
 {
     public class ProductService
     {
-        
-        public static  List<Product> Products;
-        public static  Product _product;
-
-        public static List<Product> GetProducts()
+        static ProductService()
         {
             Products = new List<Product>()
             {
                 new Product
                 {
-                    Name = "asqar",
+                    Name = "dfhsfs",
                     Color = "#E2E2E2"
 
                 },
                 new Product
                 {
-                    Name = "asqar",
+                    Name = "tergdbvf",
                     Color = "#E2E2E2"
 
                 },
                 new Product
                 {
-                    Name = "asqar",
+                    Name = "wertgdf",
                     Color = "#E2E2E2"
 
                 },
                 new Product
                 {
-                    Name = "asqar",
+                    Name = "jkhgkgfh",
                     Color = "#E2E2E2"
 
                 },
                 new Product
                 {
-                    Name = "asqar",
+                    Name = "werhgfd",
                     Color = "#E2E2E2"
 
                 },
                 new Product
                 {
-                    Name = "asqar",
+                    Name = "nhgfvc",
                     Color = "#E2E2E2"
 
                 }
-
             };
-            return Products;
         }
+
+        public static List<Product> Products;
+        public static Product _product;
+
+
         public static void AddProduct(Product product)
         {
-           Products.Add(product);
+            Products.Add(product);
         }
+
+        
+
     }
 }
 
-        
-
-
-            //public IEnumerable<Product> GetProducts()
-            //{
-            //    using (var jsonFileReader = File.OpenText(JsonFileName))
-            //    {
-            //        Products = JsonSerializer.Deserialize<Product[]>(jsonFileReader.ReadToEnd(),
-            //            new JsonSerializerOptions
-            //            {
-            //                PropertyNameCaseInsensitive = true
-            //            });
-            //    }
-            //    return Products;
-            //}
 
 
 
+//public IEnumerable<Product> GetProducts()
+//{
+//    using (var jsonFileReader = File.OpenText(JsonFileName))
+//    {
+//        Products = JsonSerializer.Deserialize<Product[]>(jsonFileReader.ReadToEnd(),
+//            new JsonSerializerOptions
+//            {
+//                PropertyNameCaseInsensitive = true
+//            });
+//    }
+//    return Products;
+//}
 
 
 
@@ -90,5 +89,8 @@ namespace DataAccessLayer
 
 
 
-        
-    
+
+
+
+
+

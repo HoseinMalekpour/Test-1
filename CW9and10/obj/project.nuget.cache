@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "OrQrCnX53697gALqVdiSNcO70YTcFvTNgcMx0nh9hzjDKhX+UfY3Ghg08l3SDHXP0utUJz5Swua7KVzAsFC/ag==",
+  "dgSpecHash": "lsIAZ0TPtLaqo7kfZR9l+K47J/vzRpLzPjaIX7CF/b8z7VPEhovxfCszc3LERgVQJnlgVv9jmtzxlEy6/kcFEw==",
   "success": true,
-  "projectFilePath": "E:\\CW9and10\\CW9and10\\CW9and10.csproj",
+  "projectFilePath": "C:\\Users\\Amin\\source\\repos\\Test-1tt\\CW9and10\\CW9and10.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+    "C:\\Users\\Amin\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
   ],
   "logs": []
 }

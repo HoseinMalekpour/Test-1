@@ -55,19 +55,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "C:\\Users\\Amin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CW9and10\\CW9and10\\CW9and10.csproj",
+      "projectUniqueName": "C:\\Users\\Amin\\source\\repos\\Test-1tt\\CW9and10\\CW9and10.csproj",
       "projectName": "CW9and10",
-      "projectPath": "E:\\CW9and10\\CW9and10\\CW9and10.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "E:\\CW9and10\\CW9and10\\obj\\",
+      "projectPath": "C:\\Users\\Amin\\source\\repos\\Test-1tt\\CW9and10\\CW9and10.csproj",
+      "packagesPath": "C:\\Users\\Amin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Amin\\source\\repos\\Test-1tt\\CW9and10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Amin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -117,7 +117,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

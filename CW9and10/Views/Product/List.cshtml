@@ -3,8 +3,9 @@
     ViewData["Title"] = "Home page";
 
 }
+<a asp-controller="Product" asp-action="Create"  class="btn btn-primary">ایجاد</a>
 
-
+<br/>
 
 @foreach(var product in Model)
 {
@@ -13,7 +14,10 @@
         <div class="card-body">
             <h5 class="card-title">@product.Name</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <p class="card-text">@product.Color</p>
+            <a class="btn btn-primary" asp-controller="Product" asp-action="Edit" asp-route-name="@product.Name">ویرایش</a>
+            <a class="btn btn-primary" asp-controller="Product" asp-action="Delete" asp-route-name="@product.Name" asp-route-test="@product.Color">حذف</a>
+
         </div>
     </div>
 }
